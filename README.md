@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on a Delivery App
 - 📫 You can reach me at https://www.instagram.com/kxdus_/
 - 😄 Pronouns: He
-- ⚡ Fun fact: I have a flat 🦶
+- ⚡ Fun fact: I have flat 🦶🦶
