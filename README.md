@@ -1,4 +1,4 @@
-### ░░░Junior High school student + <WebDev also{<Designer />} />░░░
+### ░░░Junior High school student + <WebDev also={<Designer /} />░░░
 
 - 🔭 I’m currently working on my studies.
 - 🌱 I’m currently learning Node + Express
