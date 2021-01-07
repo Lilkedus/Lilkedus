@@ -1,4 +1,5 @@
 # Hi, I'm Kedus 👋🏽
+<img src="https://i.ibb.co/80N3Ws3/Git-Hub-Profile-1.png">
 
 - 🔭 I’m currently working on a Delivery App.
 - 🌱 I’m currently learning Typescript <img src="https://tecogill.com/wp-content/uploads/2019/09/1mn6bOs7s6Qbao15PMNRyOA.png" height="20" />
