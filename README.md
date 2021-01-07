@@ -5,3 +5,6 @@
 - 📫 You can reach me at [Instagram - @kxdus_](https://www.instagram.com/kxdus_/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have flat 🦶🏽🦶🏽
+
+
+https://github-readme-stats.vercel.app/api?username=Lilkedus&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
