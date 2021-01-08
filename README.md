@@ -1,5 +1,6 @@
-# Hi, I'm Kedus 👋🏽
+# Hi there, I'm Kedus 👋🏽
 <img src="https://i.ibb.co/JKg3xXV/Git-Hub-Profile-1-2.png">
+A high school student who is inclined to programming, loves web development, has a passion for basketball, and is devoted to Jesus Christ.
 
 - 🔭 I’m currently working on a Delivery App.
 - 🌱 I’m currently learning Next js
