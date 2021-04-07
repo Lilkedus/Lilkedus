@@ -5,7 +5,7 @@
 
 A high school student who is ardent to programming, loves web development, has a passion for basketball, and is devoted to Jesus Christ.
 
-- 🔭 I’m currently working on a Delivery App.
+- 🔭 I’m currently working on a Python IDE.
 - 🌱 I’m currently learning C/C++
 - 📫 You can reach me at [Instagram - @kxdus_](https://www.instagram.com/kxdus_/)
 - 😄 Pronouns: He/Him
