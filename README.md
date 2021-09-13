@@ -15,4 +15,4 @@ A high school student who is ardent to programming, loves web development, has a
 <hr />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lilkedus&&show_icons=true&title_color=ffffff&icon_color=0073D2&text_color=daf7dc&bg_color=#333333">
+<img src="https://github-readme-stats.vercel.app/api?username=Lilkedus&&show_icons=true&title_color=ffffff&icon_color=0073D2&text_color=daf7dc&bg_color=333333">
