@@ -14,5 +14,3 @@ A high school student who is an ardent programmer, drawn towards ML, interested 
 <br />
 <hr />
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lilkedus&&show_icons=true&title_color=ffffff&icon_color=0073D2&text_color=daf7dc&bg_color=212121">
