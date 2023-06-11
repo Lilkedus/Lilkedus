@@ -14,3 +14,5 @@ A high school student who is an ardent programmer, drawn towards ML, interested 
 <br />
 <hr />
 <br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=venpzxjjli1v9gqm0exomy7et&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
