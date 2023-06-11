@@ -3,7 +3,7 @@
 
 🔵Developer @[ACO](https://website.smb.company)
 
-A high school student who is ardent to programming, loves web development, has a passion for basketball, and is devoted to Jesus Christ.
+A high school student who is an ardent programmer, drawn towards ML, interested in NLP biases, passionate about literature, and is devoted to Jesus Christ.
 
 - 🔭 I’m currently working on a Fullstack project.
 - 🌱 I’m currently learning machine learning
