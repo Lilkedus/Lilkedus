@@ -8,8 +8,6 @@ A high school student who is an ardent programmer, drawn towards ML, interested 
 - 🔭 I’m currently working on a Fullstack project.
 - 🌱 I’m currently learning machine learning
 - 📫 You can reach me at [Instagram - @kxdus_](https://www.instagram.com/kxdus_/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have flat 🦶🏽🦶🏽
 
 <br />
 <hr />
